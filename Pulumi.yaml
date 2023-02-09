@@ -1,0 +1,3 @@
+name: iac-groundwork
+description: A minimal TypeScript Pulumi program
+runtime: nodejs
